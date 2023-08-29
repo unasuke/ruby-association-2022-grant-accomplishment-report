@@ -2,11 +2,11 @@
 id: ruby-association-2022-grant-accomplishment-report
 base_name: slide
 tags: []
-presentation_date:
+presentation_date: '2023-08-28'
 presentation_start_time:
 presentation_end_time:
-version: 1.0.0
-licenses: []
+version: 1.0.1
+licenses: ['MIT']
 slideshare_id:
 speaker_deck_id:
 vimeo_id:
